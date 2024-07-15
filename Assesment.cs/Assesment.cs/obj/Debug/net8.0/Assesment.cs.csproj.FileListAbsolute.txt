@@ -1,0 +1,14 @@
+C:\.net\DotNet\Assesment.cs\Assesment.cs\bin\Debug\net8.0\Assesment.cs.exe
+C:\.net\DotNet\Assesment.cs\Assesment.cs\bin\Debug\net8.0\Assesment.cs.deps.json
+C:\.net\DotNet\Assesment.cs\Assesment.cs\bin\Debug\net8.0\Assesment.cs.runtimeconfig.json
+C:\.net\DotNet\Assesment.cs\Assesment.cs\bin\Debug\net8.0\Assesment.cs.dll
+C:\.net\DotNet\Assesment.cs\Assesment.cs\bin\Debug\net8.0\Assesment.cs.pdb
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.AssemblyInfoInputs.cache
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.AssemblyInfo.cs
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.csproj.CoreCompileInputs.cache
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.dll
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\refint\Assesment.cs.dll
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.pdb
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\Assesment.cs.genruntimeconfig.cache
+C:\.net\DotNet\Assesment.cs\Assesment.cs\obj\Debug\net8.0\ref\Assesment.cs.dll
